@@ -8,8 +8,10 @@
 <body>
     <div>
 <h1 class="class">First heading</h1>
-<h1>second heading</h1>
-<h1>third heading</h1>
+    <div>
+<h1 class="class">second heading</h1>
+<h1 class="class">third heading</h1>
+    </div>
     <script>
         let Class = document.getElementsByClassName("class");
         let heading = document.getElementsByTagName("h1");
